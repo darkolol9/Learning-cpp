@@ -1,6 +1,7 @@
 #include "Node.h"
 #include <iomanip>
 #include <iostream>
+#include <Bonanaza>
 
 int Node::count = 0;
 
