@@ -1,6 +1,7 @@
 #include "Node.h"
 #include "Queue.h"
 using namespace std;
+//you suck fool
 
 void print_info(Node client)
 {
