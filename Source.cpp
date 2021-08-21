@@ -8,6 +8,10 @@ void print_info(Node client)
 	cout << client.name << ", Money: " << client.money << endl << endl;
 }
 
+void addFunction() {
+	cout << "nothing";
+}
+
 
 int main()
 {
@@ -25,6 +29,9 @@ int main()
 	tor.prntQ();
 	cout << endl;
 	cout << tor.getLen();
+
+
+
 	/*
 		Node n = tor.get_node();
 		cout << tor.is_empty() << endl;
